@@ -1,24 +1,97 @@
-# 💫 About Me:
-🔭 I’m currently working on data driven, scalable Gen Ai Apps<br>💬 Ask me about DATA<br>
+<h1 align="center">Hi 👋, I'm Shridhar</h1>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shridhar600/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shridharvijaykumar07) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shridhar600) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=flat-square&logo=snowflake&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shridhar600&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shridhar600&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shridhar600&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shridhar600&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-
-%%### ✍️ Random Dev Quote%%
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <b>Data Engineer | GenAI Explorer | Multi-Agent Builder</b><br>
+  Merging scalable data engineering with next-gen GenAI systems
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shridhar600&icon=0&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="center">💫 About Me</h3>
+
+<p align="center">
+  🔭 Currently building <b>multi-agent GenAI apps</b> using LangChain, LangGraph, and Pydantic AI<br>
+  📦 Deep expertise in <b>Snowflake</b>, crafting robust and scalable data pipelines<br>
+  🧠 Fusing GenAI with Data Engineering to create powerful, intelligent systems<br>
+  💬 Ask me about anything related to <b>DATA</b> or <b>GenAI architectures</b><br>
+</p>
+
+---
+
+<h3 align="center">🛠️ Tech Stack</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-282c34?style=for-the-badge&logo=data:image/svg+xml;base64,..."/>
+  <img src="https://img.shields.io/badge/Pydantic-0e83cd?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+---
+
+<h3 align="center">🌟 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shridhar600&theme=radical&show_icons=true&hide_border=true"/><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shridhar600&theme=radical&hide_border=true"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shridhar600&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+<h3 align="center">🏆 GitHub Trophies</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shridhar600&theme=onedark&no-frame=true&no-bg=true&margin-w=10"/>
+</p>
+
+---
+
+<h3 align="center">📌 Featured Projects</h3>
+
+<p align="center">
+  <b>Obsiquery 🧠📁</b><br>
+  A LangChain-powered GenAI assistant for querying markdown knowledge bases<br>
+  <i>Streamlit UI | Multi-agent orchestration | Obsidian-first workflow</i><br>
+  <a href="https://github.com/Shridhar600/Obsiquery">🔗 View Project</a>
+</p>
+
+---
+
+<h3 align="center">🧩 Current Focus</h3>
+
+<p align="center">
+  🧱 Exploring <b>LangGraph</b> for agent state machines<br>
+  🔄 Integrating <b>retrieval + tools + memory</b> into scalable pipelines<br>
+  🧪 Experimenting with <b>async LLM orchestration</b> + evaluation<br>
+</p>
+
+---
+
+<h3 align="center">📫 Connect with Me</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/shridhar600"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://medium.com/@shridharvijaykumar07"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://x.com/shridhar600"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/></a>
+</p>
+
+---
+
+<h3 align="center">💬 Dev Quote</h3>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Shridhar600&icon=0&color=5"/>
+</p>
