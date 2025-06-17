@@ -11,7 +11,7 @@
 
 <p align="center">
   🔭 Currently building <b>multi-agent GenAI apps</b> using LangChain, LangGraph, and Pydantic AI<br>
-  📦 Deep expertise in <b>Snowflake</b>, crafting robust and scalable data pipelines<br>
+  📦 Deep expertise in <b>Snowflake</b>,<b>Spring Boot</b> crafting robust and scalable data pipelines<br>
   🧠 Fusing GenAI with Data Engineering to create powerful, intelligent systems<br>
   💬 Ask me about anything related to <b>DATA</b> or <b>GenAI architectures</b><br>
 </p>
