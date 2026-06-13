@@ -3,6 +3,9 @@
 # which the README references via raw.githubusercontent.com.
 name: generate contribution snake
 
+permissions:
+  contents: write              # needed to push the generated SVGs to the output branch
+
 on:
   schedule:
     - cron: "0 */24 * * *"   # once a day
