@@ -1,22 +1,6 @@
-<!--
-  DRAFT — Shridhar's GitHub profile README (decorations baked in).
-  Repo target: Shridhar600/Shridhar600
-
-  SETUP NEEDED for the snake to render:
-    1. Copy snake.yml  ->  .github/workflows/snake.yml  in the profile repo.
-    2. Copy assets/divider-light.svg and assets/divider-dark.svg  ->  assets/  in the repo.
-    3. Run the "generate contribution snake" workflow once (Actions tab -> Run workflow).
-       Until then, the snake image is a broken link. Everything else renders immediately.
-
-  Open choices still flagged:
-    1) Headline tail after the pipe — currently "Software Engineer" (clean).
-         alts: "Software Engineer who won't pick a lane" · "Software Engineer · perpetual explorer"
-    2) Tool names (Claude Code / Codex) — currently omitted on purpose.
--->
-
 <h1 align="center">Hi, I'm Shridhar 👋 &nbsp;|&nbsp; Software Engineer</h1>
 
-<p align="center"><sub>Welcome to my GitHub.</sub></p>
+<p align="center"><sub><i>I don't write the code anymore. I write the rules it has to follow.</i></sub></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
@@ -24,28 +8,41 @@
   <img alt="" width="100%" src="assets/divider-light.svg">
 </picture>
 
-I'm a software engineer who builds systems at scale — mostly the deep kind that holds a product up: data pipelines, external integrations, and internal tools, owned end to end.
+I'm a software engineer at Doceree, on the supply side of a programmatic healthcare ad platform. I build the data pipelines, backend services, and internal tools behind it, and I own them from the first commit to the production fix.
 
-<details>
-  <summary><b>A bit more about how I work</b></summary>
+Then I went deep on agentic engineering and rebuilt how I work around it. Agents write most of the code now. I build the workflows, the context, and the guardrails they run inside, and I own every line that ships, including the ones I didn't type.
 
-  <br>
+**A few things I've shipped:**
 
-  I came up at startup pace, where everything was end-to-end ownership: building from scratch, making the calls, shipping, and fixing it live in production. Ownership wasn't a word on a wall — it was the job. I care about the unglamorous parts that keep things standing: clean data flow, integrations that don't break at 2am, and tools the team actually wants to use.
-</details>
+- Re-architected a core analytics engine on a pipeline doing a billion events a day. Runtime went from 60 minutes to 4, and 30+ recurring P0 failures gone for good.
+- Cut month-end financial reconciliation from 8 hours of manual work down to 13 minutes.
+- Shipped launch features for Co-Pay.com: API latency from 500ms to under 10ms with in-memory caching, article coverage from 70% to 98%.
 
 ### In the open
 
-Local-first, agentic tools I build as I explore.
+Local-first tools I build on my own time. Four languages, four problems, same itch every time.
 
-- **[Anchor](https://github.com/Shridhar600/Anchor)** — checkpoints that keep you and your AI agents in sync across sessions · *Rust + Tauri*
+- **[Anchor](https://github.com/Shridhar600/Anchor)** — keeps you and your AI agents in sync across sessions · *Rust + Tauri*
 - **[peekmark](https://github.com/Shridhar600/peekmark)** — native macOS Markdown reader with system-wide Quick Look · *Swift*
 - **[MedClaw](https://github.com/Shridhar600/MedClaw)** — local-first personal health AI agent with persistent memory · *TypeScript*
 - **[ObsiQuery](https://github.com/Shridhar600/ObsiQuery)** — local-first agentic RAG over your Obsidian vault · *Python*
 
-### Lately
+<details>
+<summary><b>The stack I reach for</b></summary>
+<br>
 
-Agentic engineering has rewired how I build. I'm deep in setting up my own systems and loops around it — and it dissolved my old *pick-one-language* rule. Now I build wherever the problem lives.
+At work: Java, Spring Boot, Snowflake, PostgreSQL, Redis, AWS.
+Everywhere else, whatever the problem needs: Rust, Swift, TypeScript, Python.
+Agents and tooling: Claude Code, Codex, Cursor, MCP.
+
+The language stopped being the bottleneck.
+</details>
+
+### Currently
+
+Most recent ship: SiteLLM, a private AI assistant for medical publishers that answers only from their own verified content. I built it from ingestion to chatbot in about two weeks, and it scales to tens of thousands of pages. One engineer, agent-directed, start to finish.
+
+Off the clock, I take a rough 2am idea and push on it with my agents until it actually runs.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shridhar600/Shridhar600/output/github-snake-dark.svg">
@@ -59,7 +56,7 @@ Agentic engineering has rewired how I build. I'm deep in setting up my own syste
   <img alt="" width="100%" src="assets/divider-light.svg">
 </picture>
 
-Go ahead and dig around. If something here is useful to you, take it; if you'd like to make it better, contributions are welcome. Glad you stopped by.
+If something here is useful, take it. If you can make it better, pull requests are open.
 
 <p align="center">
   <samp>
