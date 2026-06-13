@@ -8,16 +8,16 @@
   <img alt="" width="100%" src="assets/divider-light.svg">
 </picture>
 
-Software engineer at Doceree, supply side of a programmatic healthcare ad platform — backend services, data pipelines, and these days AI agent systems and RAG pipelines in production too. Shipping on Spring Boot, Python, AWS, Snowflake, to name a few.
+Software engineer at Doceree, supply side of a programmatic healthcare ad platform. I build backend services, data pipelines, and these days AI agent systems and RAG pipelines in production too. Shipping on Spring Boot, Python, AWS, Snowflake, to name a few.
 
 Outside work, I build the same kinds of things for myself. Mostly tools I want to exist and don't.
 
 ### What I have been working on
 
-- **[Anchor](https://github.com/Shridhar600/Anchor)** — task and context manager for human-agent workflows · *Tauri* · `active`
-- **[peekmark](https://github.com/Shridhar600/peekmark)** — rounds up your .md files from across your Mac, keeps them in one place — Quick Look renders them properly too · *Swift*
-- **[ObsiQuery](https://github.com/Shridhar600/ObsiQuery)** — local-first agentic RAG over your Obsidian vault · *Python*
-- **[Zettelkasten-Organiser-MCP](https://github.com/Shridhar600/Zettelkasten-Organiser-MCP)** — MCP server that auto-files and links your Obsidian notes · *Python*
+- **[Anchor](https://github.com/Shridhar600/Anchor)** - task and context manager for human-agent workflows · *Tauri* · `active`
+- **[peekmark](https://github.com/Shridhar600/peekmark)** - bookmark your .md files from across your Mac, keep them in one place in the peekmark app, with a Quick Look extension bundled in · *Swift*
+- **[ObsiQuery](https://github.com/Shridhar600/ObsiQuery)** - local-first agentic RAG over your Obsidian vault · *Python*
+- **[Zettelkasten-Organiser-MCP](https://github.com/Shridhar600/Zettelkasten-Organiser-MCP)** - MCP server that auto-files and links your Obsidian notes · *Python*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shridhar600/Shridhar600/output/github-snake-dark.svg">
