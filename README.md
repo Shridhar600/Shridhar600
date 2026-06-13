@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Shridhar 👋</h1>
 
-<p align="center"><sub>Welcome to my GitHub.</sub></p>
+<p align="center"><sub><i>Don't look for better tools. Build a better agent.</i></sub></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
@@ -12,16 +12,14 @@ I'm a software engineer at Doceree, on the supply side of a programmatic healthc
 
 ### In the open
 
-Projects I build as I explore and learn.
-
-- **[Anchor](https://github.com/Shridhar600/Anchor)** — a project manager that keeps you and your agents in sync · *Tauri*
+- **[Anchor](https://github.com/Shridhar600/Anchor)** — a project management tool that keeps you and your agents in sync · *Tauri*
 - **[peekmark](https://github.com/Shridhar600/peekmark)** — native macOS Markdown reader with system-wide Quick Look · *Swift*
 - **[ObsiQuery](https://github.com/Shridhar600/ObsiQuery)** — local-first agentic RAG over your Obsidian vault · *Python*
 - **[Zettelkasten-Organiser-MCP](https://github.com/Shridhar600/Zettelkasten-Organiser-MCP)** — MCP server that auto-files and links your Obsidian notes · *Python*
 
 ### Lately
 
-Agentic engineering has rewired how I build. I'm deep in setting up my own systems and loops around it, and it dissolved my old *pick-one-language* rule. Now I build wherever the problem lives.
+Agentic engineering changed how I work. I used to pick one language and stay there. Not anymore. Now I build where the problem is.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shridhar600/Shridhar600/output/github-snake-dark.svg">
