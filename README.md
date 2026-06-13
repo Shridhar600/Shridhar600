@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Shridhar 👋</h1>
 
-<p align="center"><sub><i> Professional over-engineer of my own problems </i></sub></p>
+<p align="center"><sub><i>I build systems. Some of them think now.</i></sub></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
@@ -8,12 +8,14 @@
   <img alt="" width="100%" src="assets/divider-light.svg">
 </picture>
 
-I'm a software engineer at Doceree, on the supply side of a programmatic healthcare ad platform. I build the backend services, data pipelines, and internal tools behind it, and I own them from the first commit to the production fix.
+Software engineer at Doceree, supply side of a programmatic healthcare ad platform — backend services, data pipelines, and these days AI agent systems and RAG pipelines in production too. Shipping on Spring Boot, Python, AWS, Snowflake, to name a few.
 
-### Check these out
+Outside work, I build the same kinds of things for myself. Mostly tools I want to exist and don't.
 
-- **[Anchor](https://github.com/Shridhar600/Anchor)** — a project management tool that keeps you and your agents in sync · *Tauri*
-- **[peekmark](https://github.com/Shridhar600/peekmark)** — native macOS Markdown reader with system-wide Quick Look · *Swift*
+### What I have been working on
+
+- **[Anchor](https://github.com/Shridhar600/Anchor)** — task and context manager for human-agent workflows · *Tauri* · `active`
+- **[peekmark](https://github.com/Shridhar600/peekmark)** — rounds up your .md files from across your Mac, keeps them in one place — Quick Look renders them properly too · *Swift*
 - **[ObsiQuery](https://github.com/Shridhar600/ObsiQuery)** — local-first agentic RAG over your Obsidian vault · *Python*
 - **[Zettelkasten-Organiser-MCP](https://github.com/Shridhar600/Zettelkasten-Organiser-MCP)** — MCP server that auto-files and links your Obsidian notes · *Python*
 
@@ -23,8 +25,7 @@ I'm a software engineer at Doceree, on the supply side of a programmatic healthc
   <img alt="My contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/Shridhar600/Shridhar600/output/github-snake.svg">
 </picture>
 
-
-Go ahead and dig around. If something here is useful to you, take it. If you'd like to make it better, contributions are welcome. Glad you stopped by.
+Everything here is open. Take it, break it, or make it better. If you do something interesting with it, I'd like to hear.
 
 <p align="center">
   <samp>
