@@ -6,9 +6,7 @@
   <img alt="" width="100%" src="assets/divider-light.svg">
 </picture>
 
-I'm a software engineer at Doceree, on the supply side of a programmatic healthcare ad platform. I build the data pipelines, backend services, and internal tools behind it, and I own them from the first commit to the production fix.
-
-Then I went deep on agentic engineering and rebuilt how I work around it. Agents write most of the code now. I build the workflows, the context, and the guardrails they run inside, and I own every line that ships, including the ones I didn't type.
+I'm a software engineer at Doceree, on the supply side of a programmatic healthcare ad platform. I build the backend services, data pipelines and internal tools behind it, and I own them from the first commit to the production fix.
 
 ### In the open
 
