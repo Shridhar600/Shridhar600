@@ -8,20 +8,20 @@
   <img alt="" width="100%" src="assets/divider-light.svg">
 </picture>
 
-I'm a software engineer at Doceree, on the supply side of a programmatic healthcare ad platform. I build the backend services, data pipelines and internal tools behind it and I own them from the first commit to the production fix.
+I'm a software engineer at Doceree, on the supply side of a programmatic healthcare ad platform. I build the backend services, data pipelines, and internal tools behind it, and I own them from the first commit to the production fix.
 
 ### In the open
 
 Projects I build as I explore and learn.
 
-- **[Anchor](https://github.com/Shridhar600/Anchor)** — project manager for you & your agents to keep both in sync · *Tauri*
+- **[Anchor](https://github.com/Shridhar600/Anchor)** — a project manager that keeps you and your agents in sync · *Tauri*
 - **[peekmark](https://github.com/Shridhar600/peekmark)** — native macOS Markdown reader with system-wide Quick Look · *Swift*
-- **[MedClaw](https://github.com/Shridhar600/MedClaw)** — personal health AI agent with persistent memory · *TypeScript*
 - **[ObsiQuery](https://github.com/Shridhar600/ObsiQuery)** — local-first agentic RAG over your Obsidian vault · *Python*
+- **[Zettelkasten-Organiser-MCP](https://github.com/Shridhar600/Zettelkasten-Organiser-MCP)** — MCP server that auto-files and links your Obsidian notes · *Python*
 
 ### Lately
 
-Agentic engineering has rewired how I build. I'm deep in setting up my own systems and loops around it — and it dissolved my old *pick-one-language* rule. Now I build wherever the problem lives.
+Agentic engineering has rewired how I build. I'm deep in setting up my own systems and loops around it, and it dissolved my old *pick-one-language* rule. Now I build wherever the problem lives.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shridhar600/Shridhar600/output/github-snake-dark.svg">
@@ -29,13 +29,7 @@ Agentic engineering has rewired how I build. I'm deep in setting up my own syste
   <img alt="My contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/Shridhar600/Shridhar600/output/github-snake.svg">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
-  <img alt="" width="100%" src="assets/divider-light.svg">
-</picture>
-
-Go ahead and dig around. If something here is useful to you, take it; if you'd like to make it better, contributions are welcome. Glad you stopped by.
+Go ahead and dig around. If something here is useful to you, take it. If you'd like to make it better, contributions are welcome. Glad you stopped by.
 
 <p align="center">
   <samp>
