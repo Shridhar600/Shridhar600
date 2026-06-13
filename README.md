@@ -17,15 +17,12 @@ I'm a software engineer at Doceree, on the supply side of a programmatic healthc
 - **[ObsiQuery](https://github.com/Shridhar600/ObsiQuery)** — local-first agentic RAG over your Obsidian vault · *Python*
 - **[Zettelkasten-Organiser-MCP](https://github.com/Shridhar600/Zettelkasten-Organiser-MCP)** — MCP server that auto-files and links your Obsidian notes · *Python*
 
-### Lately
-
-Agentic engineering changed how I work. I used to pick one language and stay there. Not anymore. Now I build where the problem is.
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shridhar600/Shridhar600/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shridhar600/Shridhar600/output/github-snake.svg">
   <img alt="My contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/Shridhar600/Shridhar600/output/github-snake.svg">
 </picture>
+
 
 Go ahead and dig around. If something here is useful to you, take it. If you'd like to make it better, contributions are welcome. Glad you stopped by.
 
