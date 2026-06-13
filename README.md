@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Shridhar 👋 &nbsp;|&nbsp; Software Engineer</h1>
 
-<p align="center"><sub><i>I don't write the code anymore. I write the rules it has to follow.</i></sub></p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
@@ -11,12 +9,6 @@
 I'm a software engineer at Doceree, on the supply side of a programmatic healthcare ad platform. I build the data pipelines, backend services, and internal tools behind it, and I own them from the first commit to the production fix.
 
 Then I went deep on agentic engineering and rebuilt how I work around it. Agents write most of the code now. I build the workflows, the context, and the guardrails they run inside, and I own every line that ships, including the ones I didn't type.
-
-**A few things I've shipped:**
-
-- Re-architected a core analytics engine on a pipeline doing a billion events a day. Runtime went from 60 minutes to 4, and 30+ recurring P0 failures gone for good.
-- Cut month-end financial reconciliation from 8 hours of manual work down to 13 minutes.
-- Shipped launch features for Co-Pay.com: API latency from 500ms to under 10ms with in-memory caching, article coverage from 70% to 98%.
 
 ### In the open
 
