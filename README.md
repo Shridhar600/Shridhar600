@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shridhar 👋 &nbsp;|&nbsp; Software Engineer</h1>
+<h1 align="center">Hi, I'm Shridhar 👋</h1>
 
 <p align="center"><sub>Welcome to my GitHub.</sub></p>
 
@@ -8,23 +8,15 @@
   <img alt="" width="100%" src="assets/divider-light.svg">
 </picture>
 
-I'm a software engineer who builds systems at scale — mostly the deep kind that holds a product up: data pipelines, external integrations, and internal tools, owned end to end.
-
-<details>
-  <summary><b>A bit more about how I work</b></summary>
-
-  <br>
-
-  I came up at startup pace, where everything was end-to-end ownership: building from scratch, making the calls, shipping, and fixing it live in production. Ownership wasn't a word on a wall — it was the job. I care about the unglamorous parts that keep things standing: clean data flow, integrations that don't break at 2am, and tools the team actually wants to use.
-</details>
+I'm a software engineer at Doceree, on the supply side of a programmatic healthcare ad platform. I build the backend services, data pipelines and internal tools behind it and I own them from the first commit to the production fix.
 
 ### In the open
 
-Local-first, agentic tools I build as I explore.
+Projects I build as I explore and learn.
 
-- **[Anchor](https://github.com/Shridhar600/Anchor)** — checkpoints that keep you and your AI agents in sync across sessions · *Rust + Tauri*
+- **[Anchor](https://github.com/Shridhar600/Anchor)** — project manager for you & your agents to keep both in sync · *Tauri*
 - **[peekmark](https://github.com/Shridhar600/peekmark)** — native macOS Markdown reader with system-wide Quick Look · *Swift*
-- **[MedClaw](https://github.com/Shridhar600/MedClaw)** — local-first personal health AI agent with persistent memory · *TypeScript*
+- **[MedClaw](https://github.com/Shridhar600/MedClaw)** — personal health AI agent with persistent memory · *TypeScript*
 - **[ObsiQuery](https://github.com/Shridhar600/ObsiQuery)** — local-first agentic RAG over your Obsidian vault · *Python*
 
 ### Lately
