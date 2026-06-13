@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Shridhar 👋</h1>
 
-<p align="center"><sub><i>Don't look for better tools. Build a better agent.</i></sub></p>
+<p align="center"><sub><i> Professional over-engineer of my own problems </i></sub></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
@@ -10,7 +10,7 @@
 
 I'm a software engineer at Doceree, on the supply side of a programmatic healthcare ad platform. I build the backend services, data pipelines, and internal tools behind it, and I own them from the first commit to the production fix.
 
-### In the open
+### Check these out
 
 - **[Anchor](https://github.com/Shridhar600/Anchor)** — a project management tool that keeps you and your agents in sync · *Tauri*
 - **[peekmark](https://github.com/Shridhar600/peekmark)** — native macOS Markdown reader with system-wide Quick Look · *Swift*
