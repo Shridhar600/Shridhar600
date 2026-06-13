@@ -8,7 +8,7 @@
   <img alt="" width="100%" src="assets/divider-light.svg">
 </picture>
 
-Software engineer at Doceree, supply side of a programmatic healthcare ad platform. I build backend services, data pipelines, and these days AI agent systems and RAG pipelines in production too. Shipping on Spring Boot, Python, AWS, Snowflake, to name a few.
+Software engineer at Doceree, supply side of a programmatic healthcare ad platform. I build backend services, data pipelines, and these days Agentic AI systems and RAG pipelines in production too.
 
 Outside work, I build the same kinds of things for myself. Mostly tools I want to exist and don't.
 
