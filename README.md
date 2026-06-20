@@ -17,7 +17,7 @@ Outside work, I build the same kinds of things for myself. Mostly tools I want t
 - **[Anchor](https://github.com/Shridhar600/Anchor)** - task and context manager for human-agent workflows · *Tauri* · `active`
 - **[MedClaw](https://github.com/Shridhar600/MedClaw)** - proactive personal healthcare AI Agent with persistent memeory· *TypeScript* · `active`
 - **[peekmark](https://github.com/Shridhar600/peekmark)** - bookmark your .md files from across your Mac, keep them in one place in the peekmark app, with a Quick Look extension bundled in · *Swift*
-- **[ObsiQuery](https://github.com/Shridhar600/ObsiQuery)** - local-first agentic RAG over your Obsidian vault · *Python*
+- **[ObsiQuery](https://github.com/Shridhar600/ObsiQuery)** - local-first Multi-agent RAG over your Obsidian vault · *Python*
 - **[Zettelkasten-Organiser-MCP](https://github.com/Shridhar600/Zettelkasten-Organiser-MCP)** - MCP server that auto-files and links your Obsidian notes · *Python*
 
 <picture>
